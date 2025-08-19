@@ -7,15 +7,24 @@ evaluating the expression. This program should support the following
 operations: + - * / % ( ). White spaces or special characters are ignored.
 
 Example input:
+
 3+5*(10-2)
+
 1+1+1+1*8
+
 100/3/2
+
 100%3
 
+
 In this case, the output should contain the following:
+
 43
+
 11
+
 16
+
 1
 
 In this project will be use an array implementation of Stack library that will be
